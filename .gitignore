@@ -2,3 +2,5 @@ env
 *.pcap
 *.csv
 Steps
+CSI_SAMPLES/
+.vscode/
